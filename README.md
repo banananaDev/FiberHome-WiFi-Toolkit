@@ -6,6 +6,11 @@ A lightweight Python CLI project built with ❤️ using Termux.
 
 ---
 
+
+## Preview
+
+![FiberHome WiFi Toolkit](assets/preview.png)
+
 ## Features
 
 - 🔐 Password Generator
