@@ -2,6 +2,10 @@
 
 **Educational WiFi & Network Information Toolkit**
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Termux-green)](https://termux.dev/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A lightweight Python CLI project built with ❤️ using Termux.
 
 ---
